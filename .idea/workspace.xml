@@ -26,7 +26,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assignment 2/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="5" selection-start="3024" selection-end="3024" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="2865">
+            <state line="35" column="14" selection-start="3107" selection-end="3107" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="2865">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assignment 2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="24" selection-start="266" selection-end="266" vertical-scroll-proportion="0.35714287" vertical-offset="0" max-vertical-offset="1305">
+            <state line="2" column="16" selection-start="35" selection-end="35" vertical-scroll-proportion="0.049586777" vertical-offset="0" max-vertical-offset="1050">
               <folding />
             </state>
           </provider>
@@ -66,8 +66,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="215" />
-    <option name="y" value="55" />
+    <option name="x" value="579" />
+    <option name="y" value="22" />
     <option name="width" value="1160" />
     <option name="height" value="790" />
   </component>
@@ -190,7 +190,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="215" y="55" width="1160" height="790" extended-state="0" />
+    <frame x="579" y="22" width="1160" height="790" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -226,14 +226,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assignment 2/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="5" selection-start="3024" selection-end="3024" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="2865">
+        <state line="35" column="14" selection-start="3107" selection-end="3107" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="2865">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignment 2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="24" selection-start="266" selection-end="266" vertical-scroll-proportion="0.35714287" vertical-offset="0" max-vertical-offset="1305">
+        <state line="2" column="16" selection-start="35" selection-end="35" vertical-scroll-proportion="0.049586777" vertical-offset="0" max-vertical-offset="1050">
           <folding />
         </state>
       </provider>
