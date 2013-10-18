@@ -36,7 +36,7 @@ HELPER CLASSES
 PRIMARY STYLES
 */
 
-body{ background: url(images/sitebg.jpg) no-repeat top top #31b8ea; }
+body{ background: url(images/sitebg.png) no-repeat top top #31b8ea; }
 
 body, select, input, textarea { 
   color: #444; 
