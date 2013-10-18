@@ -36,7 +36,7 @@ HELPER CLASSES
 PRIMARY STYLES
 */
 
-body{ background: url(images/sitebg.png) no-repeat top top #31b8ea; }
+body{ background-image: url('/images/sitebg.png'); no-repeat top top #31b8ea; }
 
 body, select, input, textarea { 
   color: #444; 
@@ -169,7 +169,7 @@ SEARCH FIELD
 */
 
 #sitesearch{position:absolute; top:73px; right:100px; width:255px; height:39px; background:url(images/searchbg.png) no-repeat center center;}
-#searchtext{font-size:13px; height:39px; padding:0; margin-left:15px; background:none; border:none; color:#555; width:190px; outline:none;}
+#searchtext{font-size:13px; height:39px; padding:0; margin-left:15px; background:none; border:#000000; color:#555; width:190px; outline:none;}
 #searchsubmit{float:right; border:none; background:none; width:32px; height:29px; margin:5px;}
 
 

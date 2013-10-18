@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assignment 2/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="14" selection-start="3107" selection-end="3107" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="2865">
+            <state line="139" column="20" selection-start="0" selection-end="6442" vertical-scroll-proportion="0.16235293" vertical-offset="2016" max-vertical-offset="2865">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assignment 2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="16" selection-start="35" selection-end="35" vertical-scroll-proportion="0.049586777" vertical-offset="0" max-vertical-offset="1050">
+            <state line="6" column="48" selection-start="178" selection-end="178" vertical-scroll-proportion="-1.8367347" vertical-offset="0" max-vertical-offset="885">
               <folding />
             </state>
           </provider>
@@ -66,8 +66,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="579" />
-    <option name="y" value="22" />
+    <option name="x" value="149" />
+    <option name="y" value="190" />
     <option name="width" value="1160" />
     <option name="height" value="790" />
   </component>
@@ -190,17 +190,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="579" y="22" width="1160" height="790" extended-state="0" />
+    <frame x="149" y="190" width="1160" height="790" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6705036" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3294964" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -224,16 +224,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assignment 2/style.css">
+    <entry file="file://$PROJECT_DIR$/assignment 2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="14" selection-start="3107" selection-end="3107" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="2865">
+        <state line="6" column="48" selection-start="178" selection-end="178" vertical-scroll-proportion="-1.8367347" vertical-offset="0" max-vertical-offset="885">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment 2/index.html">
+    <entry file="file://$PROJECT_DIR$/assignment 2/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="16" selection-start="35" selection-end="35" vertical-scroll-proportion="0.049586777" vertical-offset="0" max-vertical-offset="1050">
+        <state line="139" column="20" selection-start="0" selection-end="6442" vertical-scroll-proportion="0.16235293" vertical-offset="2016" max-vertical-offset="2865">
           <folding />
         </state>
       </provider>
