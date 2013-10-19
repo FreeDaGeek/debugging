@@ -37,7 +37,7 @@ PRIMARY STYLES
 */
 
 body{ background-image: url("images/sitebg.jpg");
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
 }
 
 body, select, input, textarea { 
